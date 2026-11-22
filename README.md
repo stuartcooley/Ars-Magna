@@ -8,7 +8,7 @@ combinatorial work of the same name.
 
 ## Run it
 
-    python3 arsmagna.py "DYMPHNA BARLOCO" --min-word 3
+    python3 arsmagna.py "STUART ALAN COOLEY" --max-words 4 --time 20
     python3 arsmagna.py "STILL IN IT" --rich --must instill
     python3 arsmagna.py "YOUR NAME" --max-words 4 --time 20
 
